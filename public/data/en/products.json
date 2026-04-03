@@ -1,0 +1,218 @@
+[
+  {
+    "id": "prod_1",
+    "categoryId": "cat_appliances",
+    "name": "Stand Mixer 1000W",
+    "price": 149.99,
+    "quantity": 12,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&q=80"
+    ],
+    "description": "Professional mixer ideal for baking."
+  },
+  {
+    "id": "prod_2",
+    "categoryId": "cat_appliances",
+    "name": "Smart Refrigerator",
+    "price": 899.00,
+    "quantity": 5,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=500&q=80"
+    ],
+    "description": "Refrigerator with touch screen."
+  },
+  {
+    "id": "prod_3",
+    "categoryId": "cat_appliances",
+    "name": "Microwave 30L",
+    "price": 120.50,
+    "quantity": 20,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585659722983-38ca8e9ae9d9?w=500&q=80"
+    ],
+    "description": "Microwave with built-in grill."
+  },
+  {
+    "id": "prod_4",
+    "categoryId": "cat_appliances",
+    "name": "Glass Blender",
+    "price": 45.00,
+    "quantity": 35,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585237432819-8f075021eb19?w=500&q=80"
+    ],
+    "description": "3-speed blender."
+  },
+  {
+    "id": "prod_5",
+    "categoryId": "cat_appliances",
+    "name": "Espresso Machine (Out of Stock)",
+    "price": 250.00,
+    "quantity": 0,
+    "active": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500&q=80"
+    ],
+    "description": "Professional coffee maker. Should not be displayed because it is inactive."
+  },
+  {
+    "id": "prod_6",
+    "categoryId": "cat_appliances",
+    "name": "2-Slice Toaster",
+    "price": 29.99,
+    "quantity": 15,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&q=80"
+    ],
+    "description": "Stainless steel toaster."
+  },
+  {
+    "id": "prod_7",
+    "categoryId": "cat_appliances",
+    "name": "Robot Vacuum",
+    "price": 310.00,
+    "quantity": 8,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&q=80"
+    ],
+    "description": "Cleans your house automatically."
+  },
+  {
+    "id": "prod_8",
+    "categoryId": "cat_appliances",
+    "name": "Tower Fan",
+    "price": 75.00,
+    "quantity": 10,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585659722983-38ca8e9ae9d9?w=500&q=80"
+    ],
+    "description": "Silent fan."
+  },
+  {
+    "id": "prod_9",
+    "categoryId": "cat_appliances",
+    "name": "Electric Oven",
+    "price": 180.00,
+    "quantity": 6,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=500&q=80"
+    ],
+    "description": "Convection oven."
+  },
+  {
+    "id": "prod_10",
+    "categoryId": "cat_cafe",
+    "name": "Vanilla Cappuccino",
+    "price": 4.50,
+    "quantity": 50,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1572442388796-11668a67ef84?w=500&q=80"
+    ],
+    "description": "Our classic cappuccino."
+  },
+  {
+    "id": "prod_11",
+    "categoryId": "cat_cafe",
+    "name": "Butter Croissant",
+    "price": 2.50,
+    "quantity": 40,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1555507036-ab1f40ce88f4?w=500&q=80"
+    ],
+    "description": "Freshly baked croissant."
+  },
+  {
+    "id": "prod_12",
+    "categoryId": "cat_cafe",
+    "name": "Americano Coffee",
+    "price": 3.00,
+    "quantity": 100,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1554372562-ffdf70c9ac31?w=500&q=80"
+    ],
+    "description": "Intense black coffee."
+  },
+  {
+    "id": "prod_13",
+    "categoryId": "cat_cafe",
+    "name": "Cheesecake",
+    "price": 5.50,
+    "quantity": 12,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
+    ],
+    "description": "Slice of cake with red berries."
+  },
+  {
+    "id": "prod_14",
+    "categoryId": "cat_cafe",
+    "name": "Latte Macchiato",
+    "price": 4.80,
+    "quantity": 30,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1572442388796-11668a67ef84?w=500&q=80"
+    ],
+    "description": "Milk stained with espresso."
+  },
+  {
+    "id": "prod_15",
+    "categoryId": "cat_cafe",
+    "name": "Chocolate Chip Cookie",
+    "price": 1.50,
+    "quantity": 60,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=500&q=80"
+    ],
+    "description": "Cookie with chocolate chips."
+  },
+  {
+    "id": "prod_16",
+    "categoryId": "cat_cafe",
+    "name": "Matcha Tea",
+    "price": 5.00,
+    "quantity": 25,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
+    ],
+    "description": "Japanese green tea."
+  },
+  {
+    "id": "prod_17",
+    "categoryId": "cat_cafe",
+    "name": "Blueberry Muffin",
+    "price": 3.50,
+    "quantity": 0,
+    "active": false,
+    "images": [
+      "https://images.unsplash.com/photo-1555507036-ab1f40ce88f4?w=500&q=80"
+    ],
+    "description": "Inactive. Should not be displayed."
+  },
+  {
+    "id": "prod_18",
+    "categoryId": "cat_cafe",
+    "name": "Caramel Frappé",
+    "price": 5.20,
+    "quantity": 20,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1554372562-ffdf70c9ac31?w=500&q=80"
+    ],
+    "description": "Cold drink with cream."
+  }
+]

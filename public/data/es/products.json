@@ -1,0 +1,218 @@
+[
+  {
+    "id": "prod_1",
+    "categoryId": "cat_appliances",
+    "name": "Batidora Planetaria 1000W",
+    "price": 149.99,
+    "quantity": 12,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&q=80"
+    ],
+    "description": "Batidora profesional ideal para repostería."
+  },
+  {
+    "id": "prod_2",
+    "categoryId": "cat_appliances",
+    "name": "Refrigerador Inteligente",
+    "price": 899.00,
+    "quantity": 5,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=500&q=80"
+    ],
+    "description": "Refrigerador con pantalla táctil."
+  },
+  {
+    "id": "prod_3",
+    "categoryId": "cat_appliances",
+    "name": "Microondas 30L",
+    "price": 120.50,
+    "quantity": 20,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585659722983-38ca8e9ae9d9?w=500&q=80"
+    ],
+    "description": "Microondas con grill incorporado."
+  },
+  {
+    "id": "prod_4",
+    "categoryId": "cat_appliances",
+    "name": "Licuadora de Vaso",
+    "price": 45.00,
+    "quantity": 35,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585237432819-8f075021eb19?w=500&q=80"
+    ],
+    "description": "Licuadora de 3 velocidades."
+  },
+  {
+    "id": "prod_5",
+    "categoryId": "cat_appliances",
+    "name": "Cafetera Expreso (Agotada)",
+    "price": 250.00,
+    "quantity": 0,
+    "active": false,
+    "images": [
+      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500&q=80"
+    ],
+    "description": "Cafetera profesional. No debe mostrarse porque está inactiva."
+  },
+  {
+    "id": "prod_6",
+    "categoryId": "cat_appliances",
+    "name": "Tostadora 2 Ranuras",
+    "price": 29.99,
+    "quantity": 15,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&q=80"
+    ],
+    "description": "Tostadora de acero inoxidable."
+  },
+  {
+    "id": "prod_7",
+    "categoryId": "cat_appliances",
+    "name": "Aspiradora Robot",
+    "price": 310.00,
+    "quantity": 8,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&q=80"
+    ],
+    "description": "Limpia tu casa automáticamente."
+  },
+  {
+    "id": "prod_8",
+    "categoryId": "cat_appliances",
+    "name": "Ventilador de Torre",
+    "price": 75.00,
+    "quantity": 10,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1585659722983-38ca8e9ae9d9?w=500&q=80"
+    ],
+    "description": "Ventilador silencioso."
+  },
+  {
+    "id": "prod_9",
+    "categoryId": "cat_appliances",
+    "name": "Horno Eléctrico",
+    "price": 180.00,
+    "quantity": 6,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=500&q=80"
+    ],
+    "description": "Horno de convección."
+  },
+  {
+    "id": "prod_10",
+    "categoryId": "cat_cafe",
+    "name": "Capuchino de Vainilla",
+    "price": 4.50,
+    "quantity": 50,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1572442388796-11668a67ef84?w=500&q=80"
+    ],
+    "description": "Nuestro clásico capuchino."
+  },
+  {
+    "id": "prod_11",
+    "categoryId": "cat_cafe",
+    "name": "Croissant de Mantequilla",
+    "price": 2.50,
+    "quantity": 40,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1555507036-ab1f40ce88f4?w=500&q=80"
+    ],
+    "description": "Croissant horneado hoy."
+  },
+  {
+    "id": "prod_12",
+    "categoryId": "cat_cafe",
+    "name": "Café Americano",
+    "price": 3.00,
+    "quantity": 100,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1554372562-ffdf70c9ac31?w=500&q=80"
+    ],
+    "description": "Café negro intenso."
+  },
+  {
+    "id": "prod_13",
+    "categoryId": "cat_cafe",
+    "name": "Tarta de Queso",
+    "price": 5.50,
+    "quantity": 12,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
+    ],
+    "description": "Porción de tarta con frutos rojos."
+  },
+  {
+    "id": "prod_14",
+    "categoryId": "cat_cafe",
+    "name": "Latte Macchiato",
+    "price": 4.80,
+    "quantity": 30,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1572442388796-11668a67ef84?w=500&q=80"
+    ],
+    "description": "Leche manchada con espresso."
+  },
+  {
+    "id": "prod_15",
+    "categoryId": "cat_cafe",
+    "name": "Galleta de Chocolate",
+    "price": 1.50,
+    "quantity": 60,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=500&q=80"
+    ],
+    "description": "Galleta con chispas de chocolate."
+  },
+  {
+    "id": "prod_16",
+    "categoryId": "cat_cafe",
+    "name": "Té Matcha",
+    "price": 5.00,
+    "quantity": 25,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
+    ],
+    "description": "Té verde japonés."
+  },
+  {
+    "id": "prod_17",
+    "categoryId": "cat_cafe",
+    "name": "Muffin de Arándanos",
+    "price": 3.50,
+    "quantity": 0,
+    "active": false,
+    "images": [
+      "https://images.unsplash.com/photo-1555507036-ab1f40ce88f4?w=500&q=80"
+    ],
+    "description": "Inactivo. No debería mostrarse."
+  },
+  {
+    "id": "prod_18",
+    "categoryId": "cat_cafe",
+    "name": "Frappé de Caramelo",
+    "price": 5.20,
+    "quantity": 20,
+    "active": true,
+    "images": [
+      "https://images.unsplash.com/photo-1554372562-ffdf70c9ac31?w=500&q=80"
+    ],
+    "description": "Bebida fría con crema."
+  }
+]

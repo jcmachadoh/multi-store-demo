@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Esta línea le dice a Tailwind v4 que active las clases 'dark:' cuando el HTML tenga la clase '.dark' */
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+@import "leaflet/dist/leaflet.css";
+
+@import 'swiper/css';
+@import 'swiper/css/pagination';
+@import 'swiper/css/navigation';

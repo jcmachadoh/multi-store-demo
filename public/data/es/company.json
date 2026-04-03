@@ -1,0 +1,9 @@
+
+{
+  "name": "MultiStore Demo",
+  "description": "Tu tienda de confianza donde encuentras desde la tecnología más avanzada para tu hogar, hasta el mejor café artesanal para acompañar tus tardes.",
+  "location": { "lat": 40.416775, "lng": -3.703790 },
+  "address": "Plaza Mayor 1, Madrid, España",
+  "policies": "1. Garantía de 30 días en electrodomésticos.\n2. Productos de cafetería no tienen devolución.\n3. Envíos gratuitos en compras mayores a $50000.",
+  "whatsapp": "5354722617"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "promo_1",
+    "image": "https://images.unsplash.com/photo-1491933382434-500287f9b54b?w=800&q=80",
+    "title": "Renew your kitchen",
+    "text": "Up to 20% off on Apple brand and home appliances."
+  },
+  {
+    "id": "promo_2",
+    "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&q=80",
+    "title": "Coffee Time",
+    "text": "Get a dessert at half price with your specialty coffee."
+  }
+]
