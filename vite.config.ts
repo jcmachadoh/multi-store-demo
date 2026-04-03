@@ -9,5 +9,5 @@ export default defineConfig({
     tailwindcss(),
 
   ],
-  base: '/multi-store-demo',
+  base: '/multi-store-demo/',
 })

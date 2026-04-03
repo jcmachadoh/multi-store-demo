@@ -1,218 +1,63 @@
 [
   {
-    "id": "prod_1",
-    "categoryId": "cat_appliances",
-    "name": "Stand Mixer 1000W",
-    "price": 149.99,
-    "quantity": 12,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&q=80"
-    ],
-    "description": "Professional mixer ideal for baking."
+    "id": "prod_1", "categoryId": "cat_tech", "name": "Pro Laptop 15\"", "price": 1299.99, "quantity": 10, "active": true,
+    "images": ["https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&q=80"],
+    "description": "High-performance laptop ideal for developers and designers."
   },
   {
-    "id": "prod_2",
-    "categoryId": "cat_appliances",
-    "name": "Smart Refrigerator",
-    "price": 899.00,
-    "quantity": 5,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=500&q=80"
-    ],
-    "description": "Refrigerator with touch screen."
+    "id": "prod_2", "categoryId": "cat_tech", "name": "Ultra 5G Smartphone", "price": 899.00, "quantity": 25, "active": true,
+    "images": ["https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80"],
+    "description": "Smartphone with 108MP camera and long-lasting battery."
   },
   {
-    "id": "prod_3",
-    "categoryId": "cat_appliances",
-    "name": "Microwave 30L",
-    "price": 120.50,
-    "quantity": 20,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1585659722983-38ca8e9ae9d9?w=500&q=80"
-    ],
-    "description": "Microwave with built-in grill."
+    "id": "prod_3", "categoryId": "cat_tech", "name": "Wireless Headphones", "price": 150.50, "quantity": 40, "active": true,
+    "images": ["https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"],
+    "description": "Headphones with active noise cancellation and surround sound."
   },
   {
-    "id": "prod_4",
-    "categoryId": "cat_appliances",
-    "name": "Glass Blender",
-    "price": 45.00,
-    "quantity": 35,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1585237432819-8f075021eb19?w=500&q=80"
-    ],
-    "description": "3-speed blender."
+    "id": "prod_4", "categoryId": "cat_tech", "name": "Fit Smartwatch", "price": 199.00, "quantity": 15, "active": true,
+    "images": ["https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"],
+    "description": "Heart rate monitor, built-in GPS, and water-resistant."
   },
   {
-    "id": "prod_5",
-    "categoryId": "cat_appliances",
-    "name": "Espresso Machine (Out of Stock)",
-    "price": 250.00,
-    "quantity": 0,
-    "active": false,
-    "images": [
-      "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=500&q=80"
-    ],
-    "description": "Professional coffee maker. Should not be displayed because it is inactive."
+    "id": "prod_5", "categoryId": "cat_tech", "name": "RGB Mechanical Keyboard", "price": 85.00, "quantity": 30, "active": true,
+    "images": ["https://images.unsplash.com/photo-1595225476474-87563907a212?w=500&q=80"],
+    "description": "Mechanical keyboard with blue switches for the best typing experience."
   },
   {
-    "id": "prod_6",
-    "categoryId": "cat_appliances",
-    "name": "2-Slice Toaster",
-    "price": 29.99,
-    "quantity": 15,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1594385208974-2e75f8d7bb48?w=500&q=80"
-    ],
-    "description": "Stainless steel toaster."
+    "id": "prod_6", "categoryId": "cat_tech", "name": "Curved Monitor 27\" (Out of Stock)", "price": 250.00, "quantity": 0, "active": true,
+    "images": ["https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"],
+    "description": "144Hz curved monitor. Shown to test the 'Out of Stock' state."
+  },
+
+  {
+    "id": "prod_7", "categoryId": "cat_hardware", "name": "20V Hammer Drill", "price": 120.00, "quantity": 18, "active": true,
+    "images": ["https://images.unsplash.com/photo-1504148455328-c376907d081c?w=500&q=80"],
+    "description": "Professional cordless drill with 2 batteries included."
   },
   {
-    "id": "prod_7",
-    "categoryId": "cat_appliances",
-    "name": "Robot Vacuum",
-    "price": 310.00,
-    "quantity": 8,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?w=500&q=80"
-    ],
-    "description": "Cleans your house automatically."
+    "id": "prod_8", "categoryId": "cat_hardware", "name": "Forged Steel Hammer", "price": 25.50, "quantity": 50, "active": true,
+    "images": ["https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?w=500&q=80"],
+    "description": "Heavy-duty hammer with an anti-slip grip for shock absorption."
   },
   {
-    "id": "prod_8",
-    "categoryId": "cat_appliances",
-    "name": "Tower Fan",
-    "price": 75.00,
-    "quantity": 10,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1585659722983-38ca8e9ae9d9?w=500&q=80"
-    ],
-    "description": "Silent fan."
+    "id": "prod_9", "categoryId": "cat_hardware", "name": "Adjustable Wrench Set", "price": 45.00, "quantity": 22, "active": true,
+    "images": ["https://images.unsplash.com/photo-1558618666-fcd25c85164e?w=500&q=80"],
+    "description": "Set of 5 adjustable chrome vanadium steel wrenches."
   },
   {
-    "id": "prod_9",
-    "categoryId": "cat_appliances",
-    "name": "Electric Oven",
-    "price": 180.00,
-    "quantity": 6,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?w=500&q=80"
-    ],
-    "description": "Convection oven."
+    "id": "prod_10", "categoryId": "cat_hardware", "name": "8-Meter Tape Measure", "price": 12.99, "quantity": 100, "active": true,
+    "images": ["https://images.unsplash.com/photo-1540104539509-cfa16ac7e728?w=500&q=80"],
+    "description": "Professional tape measure, drop-resistant with an automatic lock."
   },
   {
-    "id": "prod_10",
-    "categoryId": "cat_cafe",
-    "name": "Vanilla Cappuccino",
-    "price": 4.50,
-    "quantity": 50,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1572442388796-11668a67ef84?w=500&q=80"
-    ],
-    "description": "Our classic cappuccino."
+    "id": "prod_11", "categoryId": "cat_hardware", "name": "Premium Paint Brush Set", "price": 18.50, "quantity": 35, "active": true,
+    "images": ["https://images.unsplash.com/photo-1562259949-e8e7689d7828?w=500&q=80"],
+    "description": "Synthetic bristle brushes ideal for acrylic and oil painting."
   },
   {
-    "id": "prod_11",
-    "categoryId": "cat_cafe",
-    "name": "Butter Croissant",
-    "price": 2.50,
-    "quantity": 40,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1555507036-ab1f40ce88f4?w=500&q=80"
-    ],
-    "description": "Freshly baked croissant."
-  },
-  {
-    "id": "prod_12",
-    "categoryId": "cat_cafe",
-    "name": "Americano Coffee",
-    "price": 3.00,
-    "quantity": 100,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1554372562-ffdf70c9ac31?w=500&q=80"
-    ],
-    "description": "Intense black coffee."
-  },
-  {
-    "id": "prod_13",
-    "categoryId": "cat_cafe",
-    "name": "Cheesecake",
-    "price": 5.50,
-    "quantity": 12,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
-    ],
-    "description": "Slice of cake with red berries."
-  },
-  {
-    "id": "prod_14",
-    "categoryId": "cat_cafe",
-    "name": "Latte Macchiato",
-    "price": 4.80,
-    "quantity": 30,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1572442388796-11668a67ef84?w=500&q=80"
-    ],
-    "description": "Milk stained with espresso."
-  },
-  {
-    "id": "prod_15",
-    "categoryId": "cat_cafe",
-    "name": "Chocolate Chip Cookie",
-    "price": 1.50,
-    "quantity": 60,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=500&q=80"
-    ],
-    "description": "Cookie with chocolate chips."
-  },
-  {
-    "id": "prod_16",
-    "categoryId": "cat_cafe",
-    "name": "Matcha Tea",
-    "price": 5.00,
-    "quantity": 25,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=500&q=80"
-    ],
-    "description": "Japanese green tea."
-  },
-  {
-    "id": "prod_17",
-    "categoryId": "cat_cafe",
-    "name": "Blueberry Muffin",
-    "price": 3.50,
-    "quantity": 0,
-    "active": false,
-    "images": [
-      "https://images.unsplash.com/photo-1555507036-ab1f40ce88f4?w=500&q=80"
-    ],
-    "description": "Inactive. Should not be displayed."
-  },
-  {
-    "id": "prod_18",
-    "categoryId": "cat_cafe",
-    "name": "Caramel Frappé",
-    "price": 5.20,
-    "quantity": 20,
-    "active": true,
-    "images": [
-      "https://images.unsplash.com/photo-1554372562-ffdf70c9ac31?w=500&q=80"
-    ],
-    "description": "Cold drink with cream."
+    "id": "prod_12", "categoryId": "cat_hardware", "name": "Circular Saw (Hidden)", "price": 89.00, "quantity": 5, "active": false,
+    "images": ["https://images.unsplash.com/photo-1504148455328-c376907d081c?w=500&q=80"],
+    "description": "Inactive power saw. Should not be displayed in the store."
   }
 ]

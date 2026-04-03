@@ -1,5 +1,5 @@
 [
-  { "id": "cat_appliances", "name": "Home Appliances", "active": true },
-  { "id": "cat_cafe", "name": "Cafe & Pastries", "active": true },
-  { "id": "cat_hidden", "name": "Hidden Category", "active": true }
+  { "id": "cat_tech", "name": "Technology", "active": true },
+  { "id": "cat_hardware", "name": "Hardware Store", "active": true },
+  { "id": "cat_hidden", "name": "Hidden Category", "active": false }
 ]

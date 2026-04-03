@@ -1,6 +1,5 @@
-
 [
-  { "id": "cat_appliances", "name": "Electrodomésticos", "active": true },
-  { "id": "cat_cafe", "name": "Cafetería y Repostería", "active": true },
-  { "id": "cat_hidden", "name": "Categoría Oculta", "active": true }
+  { "id": "cat_tech", "name": "Tecnología", "active": true },
+  { "id": "cat_hardware", "name": "Ferretería", "active": true },
+  { "id": "cat_hidden", "name": "Categoría Oculta", "active": false }
 ]

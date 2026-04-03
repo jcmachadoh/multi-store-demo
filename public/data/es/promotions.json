@@ -1,15 +1,14 @@
-
 [
   {
     "id": "promo_1",
-    "image": "https://images.unsplash.com/photo-1491933382434-500287f9b54b?w=800&q=80",
-    "title": "Renueva tu cocina",
-    "text": "Hasta 20% de descuento en la marca Apple y electrodomésticos."
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=800&q=80",
+    "title": "Renueva tu espacio de trabajo",
+    "text": "Hasta 20% de descuento en laptops y accesorios para tu oficina en casa."
   },
   {
     "id": "promo_2",
-    "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800&q=80",
-    "title": "Hora del Café",
-    "text": "Lleva un postre a mitad de precio con tu café especial."
+    "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=800&q=80",
+    "title": "Proyectos sin límites",
+    "text": "Lleva tu caja de herramientas con un 15% de descuento adicional."
   }
 ]

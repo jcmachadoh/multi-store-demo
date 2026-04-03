@@ -1,8 +1,8 @@
 {
   "name": "MultiStore Demo",
-  "description": "Your trusted store where you can find everything from the most advanced technology for your home to the best artisan coffee to accompany your afternoons.",
+  "description": "Your trusted store where you can find everything from the most advanced technology for your daily life, to professional hardware tools for any project.",
   "location": { "lat": 40.416775, "lng": -3.703790 },
   "address": "Plaza Mayor 1, Madrid, Spain",
-  "policies": "1. 30-day warranty on home appliances.\n2. Cafe products are non-refundable.\n3. Free shipping on purchases over $50000.",
+  "policies": "1. 1-year warranty on technology equipment.\n2. Power tools have a 6-month warranty.\n3. Free shipping on purchases over $50000.",
   "whatsapp": "5354722617"
 }

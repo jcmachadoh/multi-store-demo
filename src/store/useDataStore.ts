@@ -20,7 +20,10 @@ export const useDataStore = create<DataStoreState>((set) => ({
   fetchData: async (language) => {
     // Activamos el loading del UI Store
     useUIStore.getState().setLoading(true);
-    const baseUrl = `./data/${language}`;
+    
+    // MAGIA DE VITE: Esto asegura que la ruta siempre sea correcta en local y en GitHub Pages
+    const base = import.meta.env.BASE_URL; 
+    const baseUrl = `${base}data/${language}`;
     
     try {
       const [compRes, catRes, prodRes, promoRes] = await Promise.all([
@@ -39,7 +42,6 @@ export const useDataStore = create<DataStoreState>((set) => ({
     } catch (error) {
       console.error("Error cargando los datos:", error);
     } finally {
-      // Apagamos el loading sin importar si hubo error o éxito
       useUIStore.getState().setLoading(false);
     }
   }
