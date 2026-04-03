@@ -42,12 +42,12 @@
   },
   {
     "id": "prod_9", "categoryId": "cat_hardware", "name": "Adjustable Wrench Set", "price": 45.00, "quantity": 22, "active": true,
-    "images": ["https://images.unsplash.com/photo-1558618666-fcd25c85164e?w=500&q=80"],
+    "images": ["https://images.unsplash.com/photo-1581166397057-235af2b3c6dd?w=500&q=80"],
     "description": "Set of 5 adjustable chrome vanadium steel wrenches."
   },
   {
     "id": "prod_10", "categoryId": "cat_hardware", "name": "8-Meter Tape Measure", "price": 12.99, "quantity": 100, "active": true,
-    "images": ["https://images.unsplash.com/photo-1540104539509-cfa16ac7e728?w=500&q=80"],
+    "images": ["https://images.unsplash.com/photo-1533626904905-cc52fd99285e?w=500&q=80"],
     "description": "Professional tape measure, drop-resistant with an automatic lock."
   },
   {
