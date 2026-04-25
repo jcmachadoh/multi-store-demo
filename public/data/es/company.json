@@ -4,5 +4,8 @@
   "location": { "lat": 40.416775, "lng": -3.703790 },
   "address": "Plaza Mayor 1, Madrid, España",
   "policies": "1. Garantía de 1 año en equipos de tecnología.\n2. Herramientas eléctricas tienen 6 meses de garantía.\n3. Envíos gratuitos en compras mayores a $50000.",
-  "whatsapp": "5354722617"
+  "whatsapp": "5354722617",
+  "enzonaPhone": "5354722617",
+  "accountNumber": "9200 1234 5678 9012", 
+  "enzonaQR": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80",
 }
